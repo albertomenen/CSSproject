@@ -1,0 +1,10 @@
+
+.title-image {
+  width: fit-content;
+}
+
+.cuadrado {
+  height: 20px;
+  width: 30px;
+  background: hsl(245, 75%, 52%)
+}
